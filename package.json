@@ -10,11 +10,11 @@
       "email": "info@ryangrenz.com"
     }
   ],
-  "name": "antena-stomp-client",
+  "name": "@wellbin/antena-stomp-client",
   "description": "A STOMP protocol implementation in node.js",
   "version": "1.0.0",
   "repository": {
-    "url": "http://github.com/easternbloc/node-stomp-client"
+    "url": "git://github.com/wellbin/node-stomp-client.git"
   },
   "main": "lib/client.js",
   "engines": {
